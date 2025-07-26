@@ -1,4 +1,4 @@
-# Hi there, I'm [Swaroop Ranjan Rout] 👋
+# Hi there, I'm Swaroop Ranjan Rout👋
 
 ## 🎬 About Me
 I'm a **Engineering Student** and **video editor** with 1 year of experience working with tools like DaVinci Resolve and other video editing software. I’m also a **beginner programmer**, exploring the world of code and creating cool projects along the way!
@@ -19,4 +19,4 @@ I'm a **Engineering Student** and **video editor** with 1 year of experience wor
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/swaroop-ranjan-2ba361245/)
-- [Instagram]() 
+- [Instagram](https://www.instagram.com/sw4roop_rxxt) 
