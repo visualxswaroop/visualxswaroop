@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Swaroop Ranjan Rout
 
-🚀 **Frontend Developer | UI/UX Designer | Graphic Designer**
+🚀 **Fullstack Developer | Video Editor | Graphic Designer**
 
 I'm an Engineering student passionate about creating **modern digital experiences** through design and code.  
 I enjoy building **interactive websites, creative UI designs, and visually engaging projects**.
