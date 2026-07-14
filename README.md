@@ -1,7 +1,8 @@
 <div align="center">
 
 
-<img src[="https://capsule-render.vercel.app/api?](https://raw.githubusercontent.com/visualxswaroop/visualxswaroop/main/banner/banner.png)type=waving&color=0:0D0D0D,100:E11D2E&height=280&section=header&text=SWAROOP%20ROUT&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Creative%20Video%20Editor&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://raw.githubusercontent.com/visualxswaroop/visualxswaroop/main/banner/banner.png?
+type=waving&color=0:0D0D0D,100:E11D2E&height=280&section=header&text=SWAROOP%20ROUT&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Creative%20Video%20Editor&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=E11D2E&center=true&vCenter=true&width=650&lines=Building+Intelligent+Applications+with+AI;Turning+Ideas+Into+Intelligent+Software;Full+Stack+Developer+%7C+AI+Engineer+in+Progress;Code.+Learn.+Build.+Repeat." alt="Typing SVG" />
