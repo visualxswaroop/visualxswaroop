@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="https://raw.githubusercontent.com/visualxswaroop/visualxswaroop/main/banner/banner.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/visualxswaroop/visualxswaroop/main/banner/github_banner.png" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=E11D2E&center=true&vCenter=true&width=650&lines=Building+Intelligent+Applications+with+AI;Turning+Ideas+Into+Intelligent+Software;Full+Stack+Developer+%7C+AI+Engineer+in+Progress;Code.+Learn.+Build.+Repeat." alt="Typing SVG" />
